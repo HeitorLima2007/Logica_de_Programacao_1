@@ -1,0 +1,29 @@
+*{
+	
+	margin: 0;
+	padding: 0;
+	
+}
+/*#cabecalho{
+	
+	background: linear-gradient(to right, #16D2F3, #00f309);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	
+}*/
+input{
+	
+	display: block;
+	margin: 10px;
+	padding:10px;
+	color: #b3b3b3;
+	width: 200px;
+	border-radius: 30px;
+	
+}
+
+label{
+	
+	font-size: 20px;
+	
+}
